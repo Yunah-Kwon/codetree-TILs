@@ -1,0 +1,5 @@
+n = input()
+arr = n.split()
+a = int(arr[0])
+b = (arr[1])
+print(b,a)

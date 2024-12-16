@@ -5,6 +5,8 @@ c = int(arr[2])
 
 if a==b and c>b:
     print("1", end=" ")
+elif a<b and a<c:
+    print("1", end=" ")
 else:
     print("0", end=" ")
 

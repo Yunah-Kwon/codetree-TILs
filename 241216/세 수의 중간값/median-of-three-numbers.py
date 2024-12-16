@@ -6,4 +6,4 @@ c = int(arr[2])
 if b>a and b<c:
     print("1")
 else:
-    prin("0")
+    print("0")

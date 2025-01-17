@@ -1,3 +1,3 @@
-inp = input().split()
+inp = int(input()).split()
 inp.sort()
-print(int(inp[1]))
+print(inp[1])

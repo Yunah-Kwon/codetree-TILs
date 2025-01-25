@@ -6,6 +6,7 @@ c = a
 if b>=0:
     for i in range(1,b):
         a*=c
+    print(a)
 else:
-    a = 1    
-print(a)
+    a == 1    
+    print(a)

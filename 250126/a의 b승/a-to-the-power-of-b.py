@@ -8,5 +8,5 @@ if b>=0:
         a*=c
     print(a)
 else:
-    a == 1    
+    a = 1    
     print(a)
